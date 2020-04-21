@@ -1,7 +1,7 @@
 {
 	"name": "mavetheme",
-	"publisher": "MaveTheme",
-	"displayName": "MaveTheme",
+	"publisher": "pafa0002",
+	"displayName": "Mave Theme",
 	"description": "A default theme for MaveEditor",
 	"version": "0.0.1",
 	"engines": {
@@ -11,12 +11,14 @@
 		"type": "git",
 		"url": "https://github.com/paulf98/MaveThemeExtension"
 	},
-	"categories": ["Themes"],
+	"categories": [ "Themes" ],
 	"contributes": {
-		"themes": [{
-			"label": "Mave Editor",
-			"uiTheme": "vs-dark",
-			"path": "./themes/mavetheme.json"
-		}]
+		"themes": [
+			{
+				"label": "Mave Editor",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mavetheme.json"
+			}
+		]
 	}
 }
