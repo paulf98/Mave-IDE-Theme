@@ -1,4 +1,6 @@
-# Mave Theme
+# Mave IDE Theme
 
-# HCI2B Group Zweibrücken, (DE)
-This is a default Theme Extension to use CI of Mave in Mave Editor.
+This is a customized VS Code Theme Extension for the use in the driving simulation framework Mave.
+The Theme Extension is used in a customized IDE based on Eclipse Theia.
+
+### HCI2B Group Zweibrücken, (DE)
